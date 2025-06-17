@@ -6,7 +6,7 @@ Ce dépôt contient le frontend du projet PPP, une application de gestion de dos
 
 - Node.js >= 16.x
 - npm >= 8.x ou yarn
-- Un backend compatible (voir [PPP Project - Backend](../ppp))
+- Un backend compatible (voir [PPP Project - Backend](https://github.com/Atinkene/PPP))
 
 ## Installation
 
